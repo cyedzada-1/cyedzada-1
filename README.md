@@ -24,9 +24,10 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **RINOR** - 🌱 I’m currently learning **TS,NodeJS,
-Mongoose** - 💬 Ask me about **MERN Stack** - 📫 How to reach me
-**salqlainshahbaltee@gmail.com**
+- 🔭 I’m currently working on **RINOR** 
+- 🌱 I’m currently learning **TS,NodeJS,Mongoose**
+- 💬 Ask me about **MERN Stack**
+- 📫 How to reach me **salqlainshahbaltee@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
