@@ -16,8 +16,10 @@
   /></a>
 </p>
 
-Ask me about MERN Stack I’m currently working with RINOR I’m currently learning
-TS,NodeJS,Mongoose How to reach me:salqlainshahbaltee@gmail.com
+                                                            Ask me about MERN Stack 
+                                                        I’m currently working with RINOR 
+                                                     I’m currently learning TS,NodeJS,Mongoose 
+                                                    How to reach me:salqlainshahbaltee@gmail.com
 
 <b>
   <h3 align="center">Connect with me:</h3>
