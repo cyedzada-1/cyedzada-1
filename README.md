@@ -62,7 +62,7 @@ TS,NodeJS,Mongoose How to reach me:salqlainshahbaltee@gmail.com
   <h2 align="center">Languages and Tools:</h2>
 </b>
 
-<p align="center">
+<br align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -110,7 +110,7 @@ TS,NodeJS,Mongoose How to reach me:salqlainshahbaltee@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a></br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -162,7 +162,7 @@ TS,NodeJS,Mongoose How to reach me:salqlainshahbaltee@gmail.com
       width="40"
       height="40"
     />
-  </a>
+  </a></br>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
