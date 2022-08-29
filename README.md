@@ -21,8 +21,36 @@
 - I’m currently learning TS,NodeJS,Mongoose 
 - How to reach me: { salqlainshahbaltee@gmail.com }
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const saqlain = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "C++", "Java"],
+    askMeAbout: ["web dev", "tech", "web app", "mern"],
+    technologies: {
+        webApp: ["MERN Stack"],
+        frontEnd: {
+            js: "React",
+            css: ["scss", "mantine", "bootstrap", "tailwindcss"]
+        },
+        backEnd: {
+            js: ["node", "express", "typeScript", "javaScript"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "Sanity"],
+        misc: ["netlify", "npm", "git"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing OTA System for RINOR using MERN Stack"
+   
+};
+```
+
+
 <b>
-  <h3 align="center">Connect with me:</h3>
+  <h2 align="center">Connect with me:</h2>
 </b>
 
 <p align="center">
@@ -112,7 +140,7 @@
       width="40"
       height="40"
     />
-  </a></br>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -164,7 +192,7 @@
       width="40"
       height="40"
     />
-  </a></br>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -193,26 +221,3 @@
 </p>
 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cyedzada-1&show_icons=true&locale=en&layout=compact"
-    alt="cyedzada-1"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=cyedzada-1&show_icons=true&locale=en"
-    alt="cyedzada-1"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cyedzada-1&"
-    alt="cyedzada-1"
-  />
-</p>
